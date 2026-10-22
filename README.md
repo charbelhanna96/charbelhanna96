@@ -35,6 +35,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
+| **Find My Guy** *(private, in development)* | Home-services marketplace: homeowners post jobs, workers quote, clients choose and connect in-app. Go modular-monolith backend (API, websocket and worker binaries, Postgres/PostGIS, River job queue), React Native client and provider apps, admin web app, CI and governance automation. | Go, PostgreSQL/PostGIS, Redis, React Native, Docker |
 | **Autodiff library** *(in progress)* | Reverse-mode automatic differentiation engine built on NumPy, with gradients checked against finite differences and JAX, and a small MLP trained on MNIST. Group course project at Concordia. | Python, NumPy, JAX |
 | [**go-movies-api**](https://github.com/charbelhanna96/go-movies-api) | Go REST API for movies: layered architecture, PostgreSQL, Docker, OpenAPI. | Go, PostgreSQL, Docker |
 | [**go-movies-common**](https://github.com/charbelhanna96/go-movies-common) | Shared Go library for the go-movies microservices. | Go |
