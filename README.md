@@ -11,7 +11,7 @@
 
 - Build and run **event-driven backend services**: REST APIs, Kafka producers and consumers, Kubernetes deployments.
 - Debug production distributed systems with logs, metrics and tracing.
-- Worked on a telecom network-monitoring platform handling **millions of events per day**. One highlight: an optimistic-concurrency fix that removed a silent data-integrity bug and ran with zero data loss for 2+ years in production.
+- Worked on a telecom network-monitoring platform handling **thousands of events per day**.
 - Currently going deeper into **machine learning**, implementing core components from scratch to understand how they behave.
 
 ## Tech stack
